@@ -16,7 +16,7 @@ namespace Testproject
             InitializeComponent();
         }
 
-        public void
+        public void bla
     
     }
 }
